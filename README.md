@@ -20,6 +20,7 @@ The Rise of Agile Methodologies (2000s):
 Agile methodologies, such as Scrum and Kanban, emerged as a response to the limitations of traditional Waterfall models. Agile emphasizes iterative development, customer collaboration, and flexibility, allowing teams to respond more effectively to changing requirements and deliver software more rapidly.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 Requirements:
 In this phase, the needs and expectations of the stakeholders are gathered and analyzed to create a clear set of requirements for the software.
 Design:
