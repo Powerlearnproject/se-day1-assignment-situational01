@@ -36,52 +36,52 @@ After deployment the software may require updates, bug fixes, and adding new fea
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall Methodology:
-Sequential Process- Follows a linear and sequential approach where each phase must be completed before moving on to the next.
+Sequential Process: Follows a linear and sequential approach where each phase must be completed before moving on to the next.
 Documentation- Heavy emphasis on documentation at each stage.
-Change Management- Changes are difficult and costly to implement once a phase is completed.
-Example Scenario- Ideal for projects with well-defined requirements and little expected change, such as construction of mission-critical systems where thorough documentation and testing are essential.
+Change Management: Changes are difficult and costly to implement once a phase is completed.
+Example Scenario: Ideal for projects with well-defined requirements and little expected change, such as construction of mission-critical systems where thorough documentation and testing are essential.
 
 Agile Methodology:
-Iterative Process- Development is broken down into small, iterative cycles called sprints, allowing for continuous feedback and improvement.
-Flexibility- Emphasizes adaptability and customer feedback, making it easier to accommodate changes.
-Collaboration- Involves close collaboration between cross-functional teams and stakeholders.
-Example Scenario- Suitable for projects where requirements are expected to evolve over time, such as developing a new software product in a startup environment.
+Iterative Process: Development is broken down into small, iterative cycles called sprints, allowing for continuous feedback and improvement.
+Flexibility: Emphasizes adaptability and customer feedback, making it easier to accommodate changes.
+Collaboration: Involves close collaboration between cross-functional teams and stakeholders.
+Example Scenario: Suitable for projects where requirements are expected to evolve over time, such as developing a new software product in a startup environment.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-Software Developer- Is responsible for writing code and implementing software solutions.
-Quality Assurance Engineer- Ensures software quality by designing and executing test plans.
-Project Manager- Oversees the planning, execution and delivery of software projects.
+Software Developer: Is responsible for writing code and implementing software solutions.
+Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
+Project Manager: Oversees the planning, execution and delivery of software projects.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Integrated Development Environments (IDEs):
-Importance- IDEs provide a comprehensive environment for software development, integrating tools like code editors, debuggers, and compilers into one platform. They increase productivity by offering features like syntax highlighting, code completion, and error checking.
+Importance: IDEs provide a comprehensive environment for software development, integrating tools like code editors, debuggers, and compilers into one platform. They increase productivity by offering features like syntax highlighting, code completion, and error checking.
 Version Control Systems (VCS):
-Importance- VCSs are essential for managing changes to source code over time, allowing multiple developers to collaborate on a project. They track revisions, making it possible to revert to previous versions, compare changes, and merge code from different branches.
+Importance: VCSs are essential for managing changes to source code over time, allowing multiple developers to collaborate on a project. They track revisions, making it possible to revert to previous versions, compare changes, and merge code from different branches.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Common challenges faced by software engineers are:
-- Changing requirements
-- Tight deadlines
-- Technical debt
+Changing requirements
+Tight deadlines
+Technical debt
 Strategies of overcoming these challenges include:
-- Effective communication
-- Agile Methodologies
-- Prioritizing tasks
-- Regular reassessment of project goals and timelines
+Effective communication
+Agile Methodologies
+Prioritizing tasks
+Regular reassessment of project goals and timelines
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit Testing:
-- Testing individual components or functions in isolation to ensure they work correctly.
-Importance- Helps catch bugs early in the development process, making it easier to fix issues before they impact other parts of the system.
+Testing individual components or functions in isolation to ensure they work correctly.
+Importance: Helps catch bugs early in the development process, making it easier to fix issues before they impact other parts of the system.
 Integration Testing:
-- Testing the interaction between integrated units or components to ensure they work together as expected.
-Importance- Identifies issues that may arise when different modules or services interact, ensuring that integrated systems function smoothly.
+Testing the interaction between integrated units or components to ensure they work together as expected.
+Importance: Identifies issues that may arise when different modules or services interact, ensuring that integrated systems function smoothly.
 System Testing:
-- Testing the complete and integrated software system to ensure it meets the specified requirements.
-Importance- Validates the system as a whole, ensuring all components work together as intended in the target environment.
+Testing the complete and integrated software system to ensure it meets the specified requirements.
+Importance: Validates the system as a whole, ensuring all components work together as intended in the target environment.
 Acceptance Testing:
-- Testing conducted to determine whether the software meets the acceptance criteria set by the stakeholders.
-Importance- Ensures that the final product meets the users' needs and is ready for deployment.
+Testing conducted to determine whether the software meets the acceptance criteria set by the stakeholders.
+Importance: Ensures that the final product meets the users' needs and is ready for deployment.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
@@ -89,7 +89,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Prompt engineering is the process of designing and refining prompts—textual inputs given to AI models—to elicit desired responses or behaviour from the model. This practice is crucial in natural language processing (NLP) and AI model interactions, as the way a prompt is structured can significantly impact the quality and relevance of the AI's output.
 
 Importance in Interacting with AI Models:
-- Effective prompt engineering ensures that AI models produce accurate, relevant, and context-appropriate responses. It is especially important in applications like chatbots, content generation, and automated decision-making systems, where clear communication and precise instructions are vital for achieving the desired outcomes.
+Effective prompt engineering ensures that AI models produce accurate, relevant, and context-appropriate responses. It is especially important in applications like chatbots, content generation, and automated decision-making systems, where clear communication and precise instructions are vital for achieving the desired outcomes.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague Prompt:
