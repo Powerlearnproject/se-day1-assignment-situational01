@@ -20,7 +20,6 @@ The Rise of Agile Methodologies (2000s):
 Agile methodologies, such as Scrum and Kanban, emerged as a response to the limitations of traditional Waterfall models. Agile emphasizes iterative development, customer collaboration, and flexibility, allowing teams to respond more effectively to changing requirements and deliver software more rapidly.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
 Requirements:
 In this phase, the needs and expectations of the stakeholders are gathered and analyzed to create a clear set of requirements for the software.
 Design:
@@ -94,9 +93,7 @@ Effective prompt engineering ensures that AI models produce accurate, relevant, 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague Prompt:
 "Tell me about technology."
-
 Improved Prompt:
 "Explain the impact of artificial intelligence on the healthcare industry, focusing on recent advancements in medical diagnostics."
-
 Explanation of Improvement:
 The improved prompt is more effective because it is specific, clear, and concise. It narrows the focus to a particular aspect of technology (artificial intelligence) and a specific industry (healthcare), which guides the AI to provide a more targeted and relevant response. By specifying the context (medical diagnostics), the prompt ensures that the AI's output is informative and directly addresses the user's interest, leading to a higher-quality interaction.
