@@ -10,7 +10,7 @@ Software Engineering is the process of using programming knowledge to create sof
 Software engineering is crucial in the technology industry because it ensures that software products are high-quality, scalable, and maintainable. As software increasingly underpins critical systems in various sectors such as healthcare, finance, and transportation, the need for rigorous software engineering practices becomes paramount. Effective software engineering enables the development of complex systems, reduces the risk of software failures, and ensures that software products can evolve over time to meet changing needs.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-The Birth of Structured Programming (1960s):
+The Birth of Structured Programming(1960s):
 Structured programming introduced concepts like loops, conditionals, and functions, allowing programmers to write clearer and more organized code. This paradigm shift laid the foundation for modern software development practices by promoting better program structure and readability.
 
 The Development of Object-Oriented Programming (OOP) (1980s):
