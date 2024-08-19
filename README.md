@@ -15,10 +15,8 @@ Software engineering is crucial in the technology industry because it ensures th
 Identify and describe at least three key milestones in the evolution of software engineering.
 a) The Birth of Structured Programming (1960s):
 Structured programming introduced concepts like loops, conditionals, and functions, allowing programmers to write clearer and more organized code. This paradigm shift laid the foundation for modern software development practices by promoting better program structure and readability.
-
 b) The Development of Object-Oriented Programming (OOP) (1980s):
 OOP revolutionized software design by introducing the concept of objects, which encapsulate data and behavior. This approach made it easier to model complex systems and promoted code reuse through inheritance and polymorphism, leading to more modular and maintainable software.
-
 c) The Rise of Agile Methodologies (2000s):
 Agile methodologies, such as Scrum and Kanban, emerged as a response to the limitations of traditional Waterfall models. Agile emphasizes iterative development, customer collaboration, and flexibility, allowing teams to respond more effectively to changing requirements and deliver software more rapidly.
 
