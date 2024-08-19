@@ -23,18 +23,12 @@ c) The Rise of Agile Methodologies (2000s):
 Agile methodologies, such as Scrum and Kanban, emerged as a response to the limitations of traditional Waterfall models. Agile emphasizes iterative development, customer collaboration, and flexibility, allowing teams to respond more effectively to changing requirements and deliver software more rapidly.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-a) Requirements:
-In this phase, the needs and expectations of the stakeholders are gathered and analyzed to create a clear set of requirements for the software.
-b) Design:
-Based on the requirements, a blueprint of the software is created, outlining the architecture, components, interfaces, and data flow.
-c) Implementation:
-The actual coding of the software takes place in this phase, turning the design into a functional product.
-d) Testing:
-The developed software is rigorously tested to identify and fix defects, ensuring that it meets the specified requirements and performs as expected.
-e) Deployment:
-The software is released to users in a production environment. This phase may also include initial setup and configuration.
-f) Maintenance:
-After deployment the software may require updates, bug fixes, and adding new features. Maintenance also provides support.
+a) Requirements: In this phase, the needs and expectations of the stakeholders are gathered and analyzed to create a clear set of requirements for the software.
+b) Design: Based on the requirements, a blueprint of the software is created, outlining the architecture, components, interfaces, and data flow.
+c) Implementation: The actual coding of the software takes place in this phase, turning the design into a functional product.
+d) Testing: The developed software is rigorously tested to identify and fix defects, ensuring that it meets the specified requirements and performs as expected.
+e) Deployment: The software is released to users in a production environment. This phase may also include initial setup and configuration.
+f) Maintenance: After deployment the software may require updates, bug fixes, and adding new features. Maintenance also provides support.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 a) Waterfall Methodology:
